@@ -33,5 +33,3 @@ The pipeline is scheduled to run daily using GitHub Actions, ensuring continuous
 - Alpha Vantage API
 
 ---
-
-## Project Structure
